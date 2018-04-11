@@ -12,6 +12,7 @@
 		<img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/> 
 	</p>
 </h1>
+<<<<<<< HEAD
 
 <br/>
 
@@ -571,3 +572,23 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
 Copyright &copy; 2021 Hito Yamaitachi. All rights reserved. 
+=======
+<div align="center">
+	<a href="https://github.com/HitoYamaitachi">
+		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
+	</a>
+	<h3 align="center">Hito Yamaitachi's Personal Portfolio</h3>
+	<p align="center">
+		This is the source code for my Personal Portfolio.
+		<br/>
+		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
+		<br/>
+		<br/>
+		<a href="https://jayantgoel001.github.io/">View Demo</a>
+		·
+		<a href="https://github.com/hitoyamaitachi/issues/new?assignees=hitoyamaitachi&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+		·
+		<a href="https://github.com/hitoyamaitachi/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+	</p>
+</div>
+>>>>>>> main
