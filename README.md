@@ -12,7 +12,6 @@
 		<img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/> 
 	</p>
 </h1>
-<<<<<<< HEAD
 
 <br/>
 
@@ -139,29 +138,17 @@ These are the Font Awesome Icons used in [JayantGoel001.github.io](https://Jayan
 - Clone the repository :
     - With HTTPS:
       ```bash
-<<<<<<< HEAD
-      git clone https://github.com/JayantGoel001/JayantGoel001.github.io.git
-      ```
-    - With SSH:
-      ```bash
-      git@github.com:JayantGoel001/JayantGoel001.github.io.git
-=======
       git clone https://github.com/HitoYamaitachi/hito-yamaitachi-portfolio.git
       ```
     - With SSH:
       ```bash
       git@github.com:HitoYamaitachi/hito-yamaitachi-portfolio.git
->>>>>>> 4cf8a858c97c5b3563d247906015ae4f9d52231d
       ```
       
 - Navigate to working Directory and **main** branch
 
 	```bash
-<<<<<<< HEAD
-	cd JayantGoel001.github.io
-=======
 	cd hito-yamaitachi-portfolio
->>>>>>> 4cf8a858c97c5b3563d247906015ae4f9d52231d
 	git switch main
 	```
 
@@ -591,4 +578,3 @@ Copyright &copy; 2021 Hito Yamaitachi. All rights reserved.
 		<a href="https://github.com/hitoyamaitachi/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 </div>
->>>>>>> main
